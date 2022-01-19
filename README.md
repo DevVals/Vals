@@ -1,9 +1,12 @@
 # About Me
 
 - Self Taught Programmer
-- Finance Enthusiast
+- Finance & Database Interaction Enthusiast
 - Student | 16 Years Old
-- Databases 💯
+
+# 📈
+
+- Crypto, Tesla 💯
 
 <!---
 ValsTeam/ValsTeam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
