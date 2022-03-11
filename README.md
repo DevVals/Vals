@@ -2,7 +2,7 @@
 
 - Self Taught Programmer
 - Finance & Database Interaction Enthusiast
-- Student | 16 Years Old
+- Student | 17 Years Old
 
 # 📈
 
